@@ -1,0 +1,152 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [8 0 R 12 0 R 15 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 2417 >>
+stream
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 800 Tm (RIFQI AFTA RONANDA / PORTFOLIO) Tj ET
+0.82 0.86 0.81 RG 0.6 w 48 783 m 547 783 l S
+BT /F2 30 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 757 Tm (Rifqi Afta Ronanda) Tj ET
+BT /F1 16 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 703.5 Tm (AI and Data Engineering) Tj ET
+BT /F1 24 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 655.3 Tm (Turning data into useful decisions.) Tj ET
+BT /F1 12 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 608.5 Tm (I connect engineering thinking, machine learning, and clear interfaces to build practical tools) Tj ET
+BT /F1 12 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 591.1 Tm (for research and operations.) Tj ET
+BT /F1 11 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 555.7 Tm (Engineering Physics background at Universitas Gadjah Mada. Exploring IT and AI engineering) Tj ET
+BT /F1 11 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 539.75 Tm (opportunities with companies in Japan.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 498.79999999999995 Tm (FOCUS) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 487.19999999999993 Tm (Practical data workflows, machine learning, responsive web applications, and clear technical communication.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 463.69999999999993 Tm (SELECTED WORK) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 452.0999999999999 Tm (Solar operations monitor | Local AI evidence database | Soundscape analysis pipeline) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 428.5999999999999 Tm (HOW TO READ THIS PORTFOLIO) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 416.9999999999999 Tm (Each case separates the implemented workflow from its intended business value and remaining validation.) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 402.4999999999999 Tm (Commercial outcomes, production deployments, and performance gains are not claimed without evidence.) Tj ET
+BT /F1 10 Tf 0.25 0.39 0.25 rg 1 0 0 1 48 378.9999999999999 Tm (GitHub / rifqironanda) Tj ET
+BT /F1 10 Tf 0.25 0.39 0.25 rg 1 0 0 1 48 356.9999999999999 Tm (LinkedIn / Rifqi Afta Ronanda) Tj ET
+BT /F1 9 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 319.9999999999999 Tm (Repository documentation reviewed: 7 October 2026. LinkedIn is provided as a profile link; detailed employment information) Tj ET
+BT /F1 9 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 306.9499999999999 Tm (has not been independently reviewed for this edition.) Tj ET
+BT /F1 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 32 Tm (AI and Data Engineering | 1 / 3) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Annot /Subtype /Link /Rect [48 375.9999999999999 140.41 390.9999999999999] /Border [0 0 0] /A << /S /URI /URI (https://github.com/rifqironanda) >> >>
+endobj
+7 0 obj
+<< /Type /Annot /Subtype /Link /Rect [48 353.9999999999999 177.87 368.9999999999999] /Border [0 0 0] /A << /S /URI /URI (https://www.linkedin.com/in/rifqiaftaronanda/) >> >>
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R /Annots [6 0 R 7 0 R] >>
+endobj
+9 0 obj
+<< /Length 4126 >>
+stream
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 800 Tm (RIFQI AFTA RONANDA / PORTFOLIO) Tj ET
+0.82 0.86 0.81 RG 0.6 w 48 783 m 547 783 l S
+BT /F2 17 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 757 Tm (01 / Solar operations monitor) Tj ET
+BT /F1 9 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 732.35 Tm (Research prototype | Python / Streamlit / Isolation Forest) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 707.3000000000001 Tm (PROBLEM) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 695.7 Tm (Low solar output can come from weather or unusual operating conditions. Teams need context before deciding) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 681.2 Tm (what to inspect.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 657.7 Tm (IMPLEMENTATION) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 646.1 Tm (A CSV-to-dashboard workflow combining data validation, an irradiance and temperature baseline, Isolation) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 631.6 Tm (Forest per inverter, and explainable alerts.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 608.1 Tm (INTENDED BUSINESS VALUE) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 596.5 Tm (Designed to help operations teams prioritise inspections and interpret underperformance with environmental) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 582 Tm (context.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 558.5 Tm (EVIDENCE) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 546.9 Tm (Repository documents CSV validation, inverter filtering, actual-versus-expected charts, and alert-logic unit tests.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 523.4 Tm (VALIDATION NEEDED) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 511.79999999999995 Tm (No measured downtime reduction or verified fault-detection accuracy. Ambient temperature is a proxy;) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 497.29999999999995 Tm (plant-specific calibration and maintenance records are needed.) Tj ET
+BT /F1 10 Tf 0.25 0.39 0.25 rg 1 0 0 1 48 473.79999999999995 Tm (View project documentation on GitHub) Tj ET
+0.82 0.86 0.81 RG 0.6 w 48 451.79999999999995 m 547 451.79999999999995 l S
+BT /F2 17 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 423.79999999999995 Tm (02 / Local AI evidence database) Tj ET
+BT /F1 9 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 399.15 Tm (Local MVP | Python / Ollama / SQLite) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 374.09999999999997 Tm (PROBLEM) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 362.49999999999994 Tm (Literature review involves repetitive PDF extraction, summarisation, and organising evidence for later review.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 338.99999999999994 Tm (IMPLEMENTATION) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 327.3999999999999 Tm (Local PDF discovery and page-text extraction with PyMuPDF, Ollama summaries, SQLite storage, and a manual) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 312.8999999999999 Tm (validation state.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 289.3999999999999 Tm (INTENDED BUSINESS VALUE) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 277.7999999999999 Tm (Designed to reduce repetitive document handling while keeping processing local and human review explicit.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 254.2999999999999 Tm (EVIDENCE) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 242.6999999999999 Tm (Documented architecture separates documents, page text, summaries, and validations. No cloud LLM API is) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 228.1999999999999 Tm (required by the default pipeline.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 204.6999999999999 Tm (VALIDATION NEEDED) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 193.0999999999999 Tm (No measured time savings. Reliable claim extraction and citation verification remain roadmap items; summaries) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 178.5999999999999 Tm (require human validation.) Tj ET
+BT /F1 10 Tf 0.25 0.39 0.25 rg 1 0 0 1 48 155.0999999999999 Tm (View project documentation on GitHub) Tj ET
+BT /F1 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 32 Tm (AI and Data Engineering | 2 / 3) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Annot /Subtype /Link /Rect [48 470.79999999999995 218.43 485.79999999999995] /Border [0 0 0] /A << /S /URI /URI (https://github.com/rifqironanda/fault_detection_solar_operation_monitoring/blob/main/README.md) >> >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Link /Rect [48 152.0999999999999 218.43 167.0999999999999] /Border [0 0 0] /A << /S /URI /URI (https://github.com/rifqironanda/AI_Agents-for-build-evidence-database/blob/main/README.md) >> >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R /Annots [10 0 R 11 0 R] >>
+endobj
+13 0 obj
+<< /Length 1967 >>
+stream
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 800 Tm (RIFQI AFTA RONANDA / PORTFOLIO) Tj ET
+0.82 0.86 0.81 RG 0.6 w 48 783 m 547 783 l S
+BT /F2 17 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 757 Tm (04 / Soundscape analysis pipeline) Tj ET
+BT /F1 9 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 732.35 Tm (Research pipeline | Python / MFCC / PCA / KMeans) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 707.3000000000001 Tm (PROBLEM) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 695.7 Tm (Audio collections need consistent representations before similarities and unusual recordings can be explored.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 672.2 Tm (IMPLEMENTATION) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 660.6 Tm (MFCC, spectral and temporal features; statistical aggregation; PCA; KMeans clustering; and Isolation Forest) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 646.1 Tm (outlier detection.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 622.6 Tm (INTENDED BUSINESS VALUE) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 611 Tm (Creates reusable features, cluster labels, and outlier indicators to support exploratory review of environmental) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 596.5 Tm (recordings.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 573 Tm (EVIDENCE) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 561.4 Tm (Repository specifies feature, label, and outlier array outputs with a repeatable Python workflow.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 537.9 Tm (VALIDATION NEEDED) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 526.3 Tm (Clusters are not verified species or semantic labels. No demonstrated biodiversity metric or commercial) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 511.79999999999995 Tm (monitoring outcome.) Tj ET
+BT /F1 10 Tf 0.25 0.39 0.25 rg 1 0 0 1 48 488.29999999999995 Tm (View project documentation on GitHub) Tj ET
+BT /F1 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 32 Tm (AI and Data Engineering | 3 / 3) Tj ET
+endstream
+endobj
+14 0 obj
+<< /Type /Annot /Subtype /Link /Rect [48 485.29999999999995 218.43 500.29999999999995] /Border [0 0 0] /A << /S /URI /URI (https://github.com/rifqironanda/model-labeling-soundscape-ecology/blob/main/README.md) >> >>
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 13 0 R /Annots [14 0 R] >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000129 00000 n 
+0000000199 00000 n 
+0000000274 00000 n 
+0000002743 00000 n 
+0000002918 00000 n 
+0000003107 00000 n 
+0000003265 00000 n 
+0000007443 00000 n 
+0000007684 00000 n 
+0000007918 00000 n 
+0000008079 00000 n 
+0000010099 00000 n 
+0000010331 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+10486
+%%EOF
