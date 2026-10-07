@@ -1,0 +1,119 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [8 0 R 12 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 2396 >>
+stream
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 800 Tm (RIFQI AFTA RONANDA / PORTFOLIO) Tj ET
+0.82 0.86 0.81 RG 0.6 w 48 783 m 547 783 l S
+BT /F2 30 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 757 Tm (Rifqi Afta Ronanda) Tj ET
+BT /F1 16 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 703.5 Tm (IT and Web Engineering) Tj ET
+BT /F1 24 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 655.3 Tm (Turning data into useful decisions.) Tj ET
+BT /F1 12 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 608.5 Tm (I connect engineering thinking, machine learning, and clear interfaces to build practical tools) Tj ET
+BT /F1 12 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 591.1 Tm (for research and operations.) Tj ET
+BT /F1 11 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 555.7 Tm (Engineering Physics background at Universitas Gadjah Mada. Exploring IT and AI engineering) Tj ET
+BT /F1 11 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 539.75 Tm (opportunities with companies in Japan.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 498.79999999999995 Tm (FOCUS) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 487.19999999999993 Tm (Practical data workflows, machine learning, responsive web applications, and clear technical communication.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 463.69999999999993 Tm (SELECTED WORK) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 452.0999999999999 Tm (Quantum banking research hub | Manabi Japanese learning dashboard) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 428.5999999999999 Tm (HOW TO READ THIS PORTFOLIO) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 416.9999999999999 Tm (Each case separates the implemented workflow from its intended business value and remaining validation.) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 402.4999999999999 Tm (Commercial outcomes, production deployments, and performance gains are not claimed without evidence.) Tj ET
+BT /F1 10 Tf 0.25 0.39 0.25 rg 1 0 0 1 48 378.9999999999999 Tm (GitHub / rifqironanda) Tj ET
+BT /F1 10 Tf 0.25 0.39 0.25 rg 1 0 0 1 48 356.9999999999999 Tm (LinkedIn / Rifqi Afta Ronanda) Tj ET
+BT /F1 9 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 319.9999999999999 Tm (Repository documentation reviewed: 7 October 2026. LinkedIn is provided as a profile link; detailed employment information) Tj ET
+BT /F1 9 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 306.9499999999999 Tm (has not been independently reviewed for this edition.) Tj ET
+BT /F1 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 32 Tm (IT and Web Engineering | 1 / 2) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Annot /Subtype /Link /Rect [48 375.9999999999999 140.41 390.9999999999999] /Border [0 0 0] /A << /S /URI /URI (https://github.com/rifqironanda) >> >>
+endobj
+7 0 obj
+<< /Type /Annot /Subtype /Link /Rect [48 353.9999999999999 177.87 368.9999999999999] /Border [0 0 0] /A << /S /URI /URI (https://www.linkedin.com/in/rifqiaftaronanda/) >> >>
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R /Annots [6 0 R 7 0 R] >>
+endobj
+9 0 obj
+<< /Length 4086 >>
+stream
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 800 Tm (RIFQI AFTA RONANDA / PORTFOLIO) Tj ET
+0.82 0.86 0.81 RG 0.6 w 48 783 m 547 783 l S
+BT /F2 17 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 757 Tm (03 / Quantum banking research hub) Tj ET
+BT /F1 9 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 732.35 Tm (Interactive web application | React / Supabase / CSS) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 707.3000000000001 Tm (PROBLEM) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 695.7 Tm (Research materials, demonstrations, and report drafts can be difficult to navigate when they live in separate) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 681.2 Tm (tools.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 657.7 Tm (IMPLEMENTATION) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 646.1 Tm (A React dashboard with 30 presentation materials, interactive labs, an outline editor, local-first storage, and) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 631.6 Tm (optional Supabase synchronisation.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 608.1 Tm (INTENDED BUSINESS VALUE) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 596.5 Tm (Brings reading, demonstrations, and drafting into one workflow to support research communication and) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 582 Tm (structured review.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 558.5 Tm (EVIDENCE) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 546.9 Tm (Repository documents responsive navigation, an outline editor, Supabase Auth and Row Level Security, revision) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 532.4 Tm (history, and offline fallback.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 508.9 Tm (VALIDATION NEEDED) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 497.29999999999995 Tm (Research communication tool. No claim of bank deployment, regulatory endorsement, or measured productivity) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 482.79999999999995 Tm (improvement.) Tj ET
+BT /F1 10 Tf 0.25 0.39 0.25 rg 1 0 0 1 48 459.29999999999995 Tm (View project documentation on GitHub) Tj ET
+0.82 0.86 0.81 RG 0.6 w 48 437.29999999999995 m 547 437.29999999999995 l S
+BT /F2 17 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 409.29999999999995 Tm (05 / Manabi Japanese learning dashboard) Tj ET
+BT /F1 9 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 384.65 Tm (Learning application | React / Web Speech API / localStorage) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 359.59999999999997 Tm (PROBLEM) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 347.99999999999994 Tm (Self-study benefits from a clear path through lessons, practice, feedback, and progress tracking.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 324.49999999999994 Tm (IMPLEMENTATION) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 312.8999999999999 Tm (A responsive React interface with 18 Irodori Starter lessons, text-to-speech, graded quizzes, timed practice, and) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 298.3999999999999 Tm (local progress storage.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 274.8999999999999 Tm (INTENDED BUSINESS VALUE) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 263.2999999999999 Tm (Supports independent study through immediate explanations and a consistent lesson-to-practice workflow.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 239.7999999999999 Tm (EVIDENCE) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 228.1999999999999 Tm (Repository documents 18 lessons, 30-question practice sets, responsive layouts, and localStorage progress.) Tj ET
+BT /F2 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 204.6999999999999 Tm (VALIDATION NEEDED) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 193.0999999999999 Tm (Independent practice application, not an official JLPT or JFT-Basic simulator. Learning gains and language) Tj ET
+BT /F1 10 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 178.5999999999999 Tm (proficiency are not claimed.) Tj ET
+BT /F1 10 Tf 0.25 0.39 0.25 rg 1 0 0 1 48 155.0999999999999 Tm (View project documentation on GitHub) Tj ET
+BT /F1 8 Tf 0.12 0.23 0.20 rg 1 0 0 1 48 32 Tm (IT and Web Engineering | 2 / 2) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Annot /Subtype /Link /Rect [48 456.29999999999995 218.43 471.29999999999995] /Border [0 0 0] /A << /S /URI /URI (https://github.com/rifqironanda/quantum_computing_for_banking/blob/main/README.md) >> >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Link /Rect [48 152.0999999999999 218.43 167.0999999999999] /Border [0 0 0] /A << /S /URI /URI (https://github.com/rifqironanda/belajar_nihongo/blob/main/README.md) >> >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R /Annots [10 0 R 11 0 R] >>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000122 00000 n 
+0000000192 00000 n 
+0000000267 00000 n 
+0000002715 00000 n 
+0000002890 00000 n 
+0000003079 00000 n 
+0000003237 00000 n 
+0000007375 00000 n 
+0000007603 00000 n 
+0000007815 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R >>
+startxref
+7976
+%%EOF
